@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click-Here!](https://github.com/BS-Joy/frontendmentor-3-column-preview-card-component)
+- Live Site URL: [Click-Here!](https://bs-joy.github.io/frontendmentor-3-column-preview-card-component/)
 
 ### Built with
 
