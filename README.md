@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click-Here!](https://github.com/BS-Joy/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [Click-Here!](https://bs-joy.github.io/frontendmentor-3-column-preview-card-component/)
+- Live Site URL: [Click-Here!](https://bs-joy.github.io/fm-3-column-preview-card-component/)
 
 ### Built with
 
