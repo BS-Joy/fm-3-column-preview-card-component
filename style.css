@@ -94,7 +94,7 @@
     border: 2px solid var(--background-headings-buttons);
 }
 
-@media (max-width:460px) {
+@media (max-width:640px) {
     .container {
         max-width: 290px;
         height: auto;
